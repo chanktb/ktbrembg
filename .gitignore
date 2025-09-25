@@ -1,0 +1,17 @@
+# .gitignore
+
+# File biến môi trường bí mật
+.env
+
+# Các file cache của Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Môi trường ảo (nếu bạn dùng)
+venv/
+env/
+
+*.png
+*.jpg
+*.bat
